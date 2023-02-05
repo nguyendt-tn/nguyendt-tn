@@ -18,4 +18,4 @@
 - 🛢 &nbsp; MySQL | MongoDB | Firebase
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendt-tn&layout=compact&text_color=daf7dc&bg_color=151515)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendt-tn&layout=compact&text_color=daf7dc&bg_color=151515)
