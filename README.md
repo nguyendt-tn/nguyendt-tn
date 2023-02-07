@@ -24,6 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendt-tn&layout=compact&text_color=daf7dc&bg_color=151515)
 
 </br>
+</hr>
 
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=nguyendt-tn&repo=Grammar-Checker&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
