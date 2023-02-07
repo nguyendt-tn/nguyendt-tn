@@ -25,9 +25,9 @@
 
 <hr>
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=nguyendt-tn&repo=Grammar-Checker&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=nguyendt-tn&repo=Grammar-Checker&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2) ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=nguyendt-tn&repo=English-Vietnamese-Dictionary&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=nguyendt-tn&repo=English-Vietnamese-Dictionary&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+
 
 ![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=nguyendt-tn&repo=Z-VPN&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
